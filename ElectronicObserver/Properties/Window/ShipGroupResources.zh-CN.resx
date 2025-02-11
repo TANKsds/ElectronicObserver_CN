@@ -286,4 +286,7 @@
   <data name="RepairTimeUnit" xml:space="preserve">
     <value>1 HP 修复时间</value>
   </data>
+  <data name="ShipView_SallyArea" xml:space="preserve">
+    <value>目的地</value>
+  </data>
 </root>
