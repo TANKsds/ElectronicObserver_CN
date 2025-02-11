@@ -141,4 +141,7 @@
   <data name="TextAuthor" xml:space="preserve">
     <value>Andante</value>
   </data>
+  <data name="Maintainers" xml:space="preserve">
+    <value>MyAngelKamikaze, Jebzou 汉化：黎明时的氤氲</value>
+  </data>
 </root>
