@@ -178,7 +178,7 @@
     <value>错误</value>
   </data>
   <data name="FailedToExportCsv" xml:space="preserve">
-    <value>无法将装备图鉴导出到CSV</value>
+    <value>无法将装备图鉴导出到CSV。</value>
   </data>
   <data name="Recipe" xml:space="preserve">
     <value>开发</value>
@@ -223,7 +223,7 @@
     <value>旋翼机</value>
   </data>
   <data name="EquipmentName" xml:space="preserve">
-    <value>试制FaT规格九五式酸素鱼雷改 </value>
+    <value>试制FaT规格九五式酸素鱼雷改</value>
   </data>
   <data name="Description" xml:space="preserve">
     <value>[5英寸连装炮]
